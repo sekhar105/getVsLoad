@@ -10,7 +10,7 @@ public class Customer {
 	private Date dob;
 	private String mobileNo;
 	private String emailAdress;
-	private String nothing;
+	
 	public int getCustomerNo() {
 		return customerNo;
 	}
